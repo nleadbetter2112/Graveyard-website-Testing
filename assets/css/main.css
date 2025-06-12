@@ -180,8 +180,10 @@ input, select, textarea {
 	}
 
 		new-rocker-regular {
+		  color: #ffffff;
 		  font-family: "New Rocker", system-ui;
-		  font-weight: 400;
+		  font-weight: 600;
+		  line-height: 1.5;
 		  font-style: normal;
 		}
 
