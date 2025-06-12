@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");	
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
 <style>
 
 
@@ -181,6 +182,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
+		font-family: "New Rocker", system-ui;
 		font-weight: 600;
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
